@@ -34,5 +34,5 @@ Until I make a release version you have to do it manually:
 3. enter -> pip install pyinstaller
 4. enter -> cd downloads
 6. enter -> pyinstaller SoundTap.py --onefile --windowed
-5. SoundTap.exe will be in the user\downloads\dist
+5. SoundTap.exe will be in the folder path user\downloads\dist
 6. Drag to desktop, delete uneeded SoundTap.py file & dist folder
