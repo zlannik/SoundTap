@@ -13,7 +13,7 @@ SoundTap records your desktop's internal audio just by hitting start &amp; stop.
 # How It Works
 SoundTap saves what you capture as a WAV file to a folder that it creates on your desktop called "SoundTap Recordings".
 
-Great for musicians who do a lot of sampling, podcasters, journalists, influencers, posters, or anyone who just wants to save some sound clips for later without hassle.
+Great for musicians who do a lot of sampling, podcasters, journalists, YouTubers, influencers, posters, or anyone who just wants to save some sound clips for later without hassle.
 
 It's a single python scrpit that utilizes the pyaudio library for it's logic and tkinter for its GUI.
 
