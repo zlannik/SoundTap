@@ -4,7 +4,10 @@
 
 <img width="379" height="251" alt="Screenshot2" src="https://github.com/user-attachments/assets/3914115b-68d1-4d80-b9af-3c92c2a50a2d" /><br>
 
-<img width="380" height="249" alt="Screenshot3" src="https://github.com/user-attachments/assets/fff870aa-c5d0-4724-b6e7-a277ca407216" />
+<img width="380" height="249" alt="Screenshot3" src="https://github.com/user-attachments/assets/fff870aa-c5d0-4724-b6e7-a277ca407216" /><br>
+
+<img width="291" height="211" alt="Screenshot4" src="https://github.com/user-attachments/assets/ab24f2ac-4c35-4097-9a41-2b18c8a7777e" />
+
 
 
 # SoundTap
