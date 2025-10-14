@@ -21,3 +21,16 @@ Great for musicians who do a lot of sampling, podcasters, journalists, YouTubers
 It's a single python scrpit that utilizes the pyaudio library, and tkinter for its GUI. It uses multi-threading & redunancy techniques to ensure stability.
 
 It's also the first program I have created which I use regularly.
+
+# Installation
+Downloading the SoundTap.py file runs the program.
+
+However, SoundTap is best used as an .exe application
+
+1. Download SoundTap.py from this page to your downloads folder
+2. open your computer's terminal
+3. enter -> pip install pyinstaller
+4. enter -> cd downloads
+6. enter -> pyinstaller SoundTap.py --onefile --windowed
+5. SoundTap will be in the user\downloads\dist
+6. Drag to desktop, delete uneeded SoundTap.py file & dist folder
