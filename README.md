@@ -23,9 +23,11 @@ It's a single python scrpit that utilizes the pyaudio library, and tkinter for i
 It's also the first program I have created which I use regularly.
 
 # Installation
-Downloading the SoundTap.py file runs the program.
+Downloading and double clicking the SoundTap.py file runs the program in terminal mode.
 
-However, SoundTap is best used as an .exe application
+However, for ease of use SoundTap is best used as an .exe application
+
+Until I make a release version you have to do it manually:
 
 1. Download SoundTap.py from this page to your downloads folder
 2. open your computer's terminal
