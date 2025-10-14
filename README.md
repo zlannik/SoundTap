@@ -11,7 +11,7 @@
 
 
 # SoundTap
-SoundTap records your desktop's internal audio just by hitting start &amp; stop. It's clean, and lightweight.
+SoundTap records your desktop's internal audio just by clicking start &amp; stop. It's clean, and lightweight.
 
 # How It Works
 SoundTap saves what you capture as a WAV file to a folder that it creates on your desktop called "SoundTap Recordings".
