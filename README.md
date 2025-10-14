@@ -18,6 +18,6 @@ SoundTap saves what you capture as a WAV file to a folder that it creates on you
 
 Great for musicians who do a lot of sampling, podcasters, journalists, YouTubers, influencers, posters, or anyone who just wants to save some sound clips for later without hassle.
 
-It's a single python scrpit that utilizes the pyaudio library for it's logic and tkinter for its GUI.
+It's a single python scrpit that utilizes the pyaudio library, and tkinter for its GUI. It uses multi-threading & redunancy techniques to ensure stability.
 
-It's also the first program that I created which I use regularly.
+It's also the first program I have created which I use regularly.
