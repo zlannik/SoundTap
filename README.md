@@ -11,4 +11,5 @@ It is great for musicians, podcasters, or anyone who just wants to record and sa
 ___SoundTap is part of a larger project study focused on Large Language Model code & reasoning methodology.
 The project seeks to understand how various criteria in LLM prompting effects different outcomes.
 It is one of many.
-This program itself is not the result of a single prompt but rather uses LLM technology to build biolerplate frameworks which are then refined into a product.___
+This program itself is not the result of a single prompt but rather uses LLM technology to build biolerplate frameworks which are then refined into a product.
+This version, for example, utilizes pyaudio and tkniter. Other project schema may not.___
