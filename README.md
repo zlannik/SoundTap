@@ -1,3 +1,7 @@
+REQUIREMENTS
+
+`pip install pyaudio`
+
 SoundTap records your desktop computer's audio using simple start & stop buttons.
 
 Designed for ease of use, pressing "START" records audio and pressing "STOP" saves it as a .WAV audio file to a folder on your desktop called "SoundTap Recordings".
