@@ -12,4 +12,4 @@ ___SoundTap is part of a larger project study focused on Large Language Model co
 The project seeks to understand how various criteria in LLM prompting effects different outcomes.
 It is one of many.
 This program itself is not the result of a single prompt but rather uses LLM technology to build biolerplate frameworks which are then refined into a product.
-This version, for example, utilizes pyaudio and tkniter. Other project schema may not.___
+This version, for example, utilizes pyaudio and tkinter. Other project schema may not.___
