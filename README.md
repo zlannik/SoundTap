@@ -8,8 +8,4 @@ Designed for ease of use, pressing "START" records audio and pressing "STOP" sav
 
 It is great for musicians, podcasters, or anyone who just wants to record and save computer audio without hassle.
 
-___SoundTap is part of a larger project study focused on Large Language Model code & reasoning methodology.
-The project seeks to understand how various criteria in LLM prompting effects different outcomes.
-It is one of many.
-This program itself is not the result of a single prompt but rather uses LLM technology to build boilerplate frameworks which are then refined into a product.
-This version, for example, utilizes pyaudio and tkinter libraries. Other project schema may not.___
+I love this little program that I made! The boilerplate was built with Claude and refined in Visual Studio. The cool thing is that it works great and I use it all the time.
