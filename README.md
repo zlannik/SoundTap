@@ -18,6 +18,6 @@ Designed for ease of use, pressing "START" records audio and pressing "STOP" sav
 
 It is great for musicians, podcasters, or anyone who just wants to record and save computer audio without hassle.
 
-I love this little program that I made! The boilerplate was built with Claude and refined in Visual Studio. The cool thing is that it works great and I use it all the time to record any audio clips that i want playing from my desktop in a super fast way.
+I love this little program that I made! The boilerplate was built with Claude and refined in Visual Studio. The cool thing is that it works great and I use it all the time to record audio!
 
-It relies on TKinter for its GUI interface, which is okay but I'm not sure if I would specifically rely on that library were I building it in C
+It relies on TKinter for its GUI interface, which is okay but tbh if I were making something like this from scratch I would probably design in C
