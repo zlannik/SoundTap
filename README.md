@@ -20,4 +20,4 @@ It is great for musicians, podcasters, or anyone who just wants to record and sa
 
 I love this little program that I made! The boilerplate was built with Claude and refined in Visual Studio. The cool thing is that it works great and I use it all the time to record audio!
 
-It relies on TKinter for its GUI interface, which is to say, were I making this from from the ground up I would probably design it in C
+It relies on TKinter for its GUI interface, which is to say, were I making this from the ground up I would probably design it in C
