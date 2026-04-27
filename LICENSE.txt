@@ -1,0 +1,17 @@
+SoundTap - Proprietary Software License
+
+Copyright (c) 2026 Cody M Bohler. All rights reserved.
+
+This software and its source code are the exclusive property of Cody M Bohler.
+No part of this software may be reproduced, distributed, modified, reverse
+engineered, or transmitted in any form or by any means without the prior
+written permission of the copyright owner.
+
+You are granted a non-exclusive, non-transferable license to install and use
+this software on your own devices for personal, non-commercial purposes only.
+
+Redistribution, sublicensing, or sale of this software, in whole or in part,
+is strictly prohibited without explicit written consent from the copyright owner.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE COPYRIGHT
+OWNER SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
